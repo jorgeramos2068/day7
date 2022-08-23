@@ -15,10 +15,10 @@ const Home = () => {
           <td>
             <ul>
               <li>
-                <Link to="/hoc/regular">Regular component</Link>
+                <Link to="/hoc/function">Higher Order Function</Link>
               </li>
               <li>
-                <Link to="/hoc/hoc">HOC</Link>
+                <Link to="/hoc/component">Higher Order Component</Link>
               </li>
             </ul>
           </td>
@@ -28,13 +28,16 @@ const Home = () => {
           <td>
             <ul>
               <li>
+                <Link to="/memoization/react-memo">React.memo()</Link>
+              </li>
+              <li>
                 <Link to="/memoization/use-memo">useMemo hook</Link>
               </li>
               <li>
-                <Link to="/memoization/use-callback">useCallback hook</Link>
+                <Link to="/memoization/use-callback1">useCallback hook 1</Link>
               </li>
               <li>
-                <Link to="/memoization/react-memo">React.memo()</Link>
+                <Link to="/memoization/use-callback2">useCallback hook 2</Link>
               </li>
             </ul>
           </td>
