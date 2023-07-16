@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React App - Day 7
+
+React web application that shows examples for the Day 7 in the React Bootcamp.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
